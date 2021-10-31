@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # get environment variables
-DISCORD_BOT_ACCESS_TOKEN = os.environ["OTA0MzcwMDE5NDU3MjAwMTI5.YX6iNw.saBg6H4DtZ74KlsWTetjZMbkeHs"]
+DISCORD_BOT_ACCESS_TOKEN = os.environ["OTA0MzcwMDE5NDU3MjAwMTI5.YX6iNw.I13-kNabVjVzKLC0K56DS508Wsk"]
 LINE_NOTIFY_ACCESS_TOKEN = os.environ["vetajiaNHjtu073BEHFV360rRD59gY4PhIen7DSb4XD"]
 VOICE_CHANNEL_ID1 = os.environ["664097385558966272"]
 VOICE_CHANNEL_ID2 = os.environ["578242481674518551"]
